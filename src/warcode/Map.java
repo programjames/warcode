@@ -1,5 +1,5 @@
 package warcode;
 
-public class Game {
+public class Map {
 
 }
